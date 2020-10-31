@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: bondcpp
+Description: Description of bondcpp
+Version: 1.8.5
+Cflags: -I${prefix}/include -I/usr/include
+Libs: -L${prefix}/lib -lbondcpp /usr/lib/x86_64-linux-gnu/libuuid.so
+Requires: bond roscpp smclib

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libIMGPRODCONS.a CMakeFiles/IMGPRODCONS.dir/ImgProdCons.cpp.o
+/usr/bin/ranlib libIMGPRODCONS.a

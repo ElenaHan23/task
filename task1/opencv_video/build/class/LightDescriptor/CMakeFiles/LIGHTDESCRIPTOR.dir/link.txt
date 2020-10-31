@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLIGHTDESCRIPTOR.a CMakeFiles/LIGHTDESCRIPTOR.dir/LightDescriptor.cpp.o
+/usr/bin/ranlib libLIGHTDESCRIPTOR.a

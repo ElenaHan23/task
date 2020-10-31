@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: rqt_bag
+Description: Description of rqt_bag
+Version: 0.4.14
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

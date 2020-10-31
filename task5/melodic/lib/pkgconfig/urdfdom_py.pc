@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: urdfdom_py
+Description: Description of urdfdom_py
+Version: 0.4.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

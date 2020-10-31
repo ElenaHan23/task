@@ -1,0 +1,9 @@
+/home/elena/桌面/opencv_video/build/CMakeFiles/rebuild_cache.dir
+/home/elena/桌面/opencv_video/build/CMakeFiles/main.dir
+/home/elena/桌面/opencv_video/build/CMakeFiles/edit_cache.dir
+/home/elena/桌面/opencv_video/build/class/Armor/CMakeFiles/rebuild_cache.dir
+/home/elena/桌面/opencv_video/build/class/Armor/CMakeFiles/ARMOR.dir
+/home/elena/桌面/opencv_video/build/class/Armor/CMakeFiles/edit_cache.dir
+/home/elena/桌面/opencv_video/build/class/ImgProdCons/CMakeFiles/rebuild_cache.dir
+/home/elena/桌面/opencv_video/build/class/ImgProdCons/CMakeFiles/IMGPRODCONS.dir
+/home/elena/桌面/opencv_video/build/class/ImgProdCons/CMakeFiles/edit_cache.dir
